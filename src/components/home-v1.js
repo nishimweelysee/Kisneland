@@ -26,6 +26,7 @@ const Home_V1 = () => {
         <Ads />
         <Subscribe />
         <Footer />
+        
     </div>
 }
 
