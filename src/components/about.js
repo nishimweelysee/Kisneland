@@ -12,7 +12,7 @@ const AboutPage = () => {
         <Navbar />
         <PageHeader headertitle="About Us"  />
         <About />
-        {/* <History /> */}
+        <History />
         <Team />
         <Footer />
     </div>

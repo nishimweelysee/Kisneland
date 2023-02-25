@@ -140,7 +140,7 @@ class UserProfile extends Component {
 			                    <div className="col-sm-6">
 			                      <div className="single-destinations-list style-two">
 			                        <div className="thumb">
-			                          <img src={publicUrl+"assets/img/destination-list/4.png"} alt="list" />
+			                          <img src={publicUrl+"assets/img/games/4.png"} alt="list" />
 			                        </div>
 			                        <div className="details">
 			                          <p className="location"><img src={publicUrl+"assets/img/icons/1.png"} alt="map" />Maldives</p>
@@ -155,7 +155,7 @@ class UserProfile extends Component {
 			                    <div className="col-sm-6">
 			                      <div className="single-destinations-list style-two">
 			                        <div className="thumb">
-			                          <img src={publicUrl+"assets/img/destination-list/5.png"} alt="list" />
+			                          <img src={publicUrl+"assets/img/games/5.png"} alt="list" />
 			                        </div>
 			                        <div className="details">
 			                          <p className="location"><img src={publicUrl+"assets/img/icons/1.png"} alt="map" />Indonesia</p>
@@ -196,7 +196,7 @@ class UserProfile extends Component {
 			                        </div>
 			                        <div className="col-lg-5">
 			                          <div className="user-payment-card">
-			                            <img src={publicUrl+"assets/img/others/16.png"} alt="img" />
+			                            <img src={publicUrl+"assets/img/restourent/16.png"} alt="img" />
 			                            <span>Available payment method:</span>
 			                            <div className="payment-card">
 			                              <i className="fa fa-cc-paypal" />

@@ -75,8 +75,8 @@ class Navbar extends Component {
 			            <li><Link to="/tour-list-v2">Games List 02</Link></li>
 			            <li><Link to="/tour-list-v3">Games List 03</Link></li>
 			            <li><Link to="/tour-details">Games Details</Link></li>
-			            <li><Link to="/destination-list">Destination List</Link></li>
-			            <li><Link to="/destination-list-v2">Destination List 2</Link></li>
+			            <li><Link to="/games">Destination List</Link></li>
+			            <li><Link to="/games-v2">Destination List 2</Link></li>
 			            <li><Link to="/destination-details">Destination Details</Link></li>
 			            <li><Link to="/gallery">Gallery</Link></li>
 			            <li><Link to="/gallery-details">Gallery Details</Link></li>
@@ -87,12 +87,12 @@ class Navbar extends Component {
 			          </ul>
 			        </li>
 			        <li className="menu-item-has-children">
-			          <Link to="/blog">Blog</Link>
+			          <Link to="/mettings">Blog</Link>
 			          <ul className="sub-menu">
-			            <li><Link to="/blog">Blog</Link></li>
-			            <li><Link to="/blog-v2">Blog 02</Link></li>
-			            <li><Link to="/blog-v3">Blog 03</Link></li>
-			            <li><Link to="/blog-details">Blog Details</Link></li>
+			            <li><Link to="/mettings">Blog</Link></li>
+			            <li><Link to="/mettings-v2">Blog 02</Link></li>
+			            <li><Link to="/mettings-v3">Blog 03</Link></li>
+			            <li><Link to="/mettings-details">Blog Details</Link></li>
 			          </ul>
 			        </li> */}
 			        <li>

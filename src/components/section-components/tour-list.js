@@ -14,7 +14,7 @@ class TourList extends Component {
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="single-destinations-list style-four">
-                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/destination-list/16.png)'}} />
+                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/games/16.png)'}} />
                       <div className="details">
                         <div className="tp-review-meta">
                           <i className="ic-yellow fa fa-star" />
@@ -43,7 +43,7 @@ class TourList extends Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="single-destinations-list style-four">
-                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/destination-list/11.png)'}} />
+                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/games/11.png)'}} />
                       <div className="details">
                         <div className="tp-review-meta">
                           <i className="ic-yellow fa fa-star" />
@@ -72,7 +72,7 @@ class TourList extends Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="single-destinations-list style-four">
-                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/destination-list/12.png)'}} />
+                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/games/12.png)'}} />
                       <div className="details">
                         <div className="tp-review-meta">
                           <i className="ic-yellow fa fa-star" />
@@ -101,7 +101,7 @@ class TourList extends Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="single-destinations-list style-four">
-                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/destination-list/5.png)'}} />
+                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/games/5.png)'}} />
                       <div className="details">
                         <div className="tp-review-meta">
                           <i className="ic-yellow fa fa-star" />
@@ -130,7 +130,7 @@ class TourList extends Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="single-destinations-list style-four">
-                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/destination-list/7.png)'}} />
+                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/games/7.png)'}} />
                       <div className="details">
                         <div className="tp-review-meta">
                           <i className="ic-yellow fa fa-star" />
@@ -159,7 +159,7 @@ class TourList extends Component {
                   </div>
                   <div className="col-lg-6">
                     <div className="single-destinations-list style-four">
-                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/destination-list/9.png)'}} />
+                      <div className="blur-thumb" style={{backgroundImage: 'url('+publicUrl+'assets/img/games/9.png)'}} />
                       <div className="details">
                         <div className="tp-review-meta">
                           <i className="ic-yellow fa fa-star" />

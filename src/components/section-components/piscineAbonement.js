@@ -31,7 +31,7 @@ class PiscineAbonement extends Component {
 														<img src={publicUrl + p.mainPhoto} alt="list" />
 														<div className="d-list-btn-wrap">
 															<div className="d-list-btn viaje-go-top">
-																<Link className="btn btn-yellow" to={{ pathname: "/piscine-details", search: 'id=' + p.id }}>Buy Now <i className="fa fa-paper-plane" /></Link>
+																<Link className="btn btn-yellow" to={{ pathname: "/piscine-details", search: 'id=' + p.id }}>View More <i className="fa fa-paper-plane" /></Link>
 															</div>
 														</div>
 													</div>

@@ -67,9 +67,9 @@ class Footer_v2 extends Component {
 				          <ul className="widget_nav_menu text-center viaje-go-top">
 				            <li><Link to="/">Home</Link></li>
 				            <li><Link to="/about">About Us</Link></li>
-				            <li><Link to="/destination-list">Destination</Link></li>
+				            <li><Link to="/games">Destination</Link></li>
 				            <li><Link to="/tour-details">Tours</Link></li>
-				            <li><Link to="/blog">Blog</Link></li>
+				            <li><Link to="/mettings">Blog</Link></li>
 				            <li><Link to="/contact">Contact</Link></li>
 				          </ul>
 				        </div>

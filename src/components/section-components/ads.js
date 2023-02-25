@@ -13,7 +13,7 @@ class Ads extends Component {
 				    <div className="row justify-content-center">
 				      <div className="col-xl-8 col-lg-9">
 				        <Link className="ads-thumb" to="/contact">
-				          <img src={publicUrl+"assets/img/others/1.png"} alt="ads" />
+				          <img src={publicUrl+"assets/img/restourent/1.png"} alt="ads" />
 				        </Link>
 				      </div>
 				    </div>

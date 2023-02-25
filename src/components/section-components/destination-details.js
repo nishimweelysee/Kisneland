@@ -18,13 +18,13 @@ class DestinatioDetails extends Component {
                       <div className="destinations-details-main-slider-wrap">
                         <div className="destinations-details-main-slider">
                           <div className="d-details-main-slider-item">
-                            <img src={publicUrl+"assets/img/others/3.png"} alt="img" />
+                            <img src={publicUrl+"assets/img/restourent/3.png"} alt="img" />
                           </div>
                           <div className="d-details-main-slider-item">
-                            <img src={publicUrl+"assets/img/others/2.png"} alt="img" />
+                            <img src={publicUrl+"assets/img/restourent/2.png"} alt="img" />
                           </div>
                           <div className="d-details-main-slider-item">
-                            <img src={publicUrl+"assets/img/others/4.png"} alt="img" />
+                            <img src={publicUrl+"assets/img/restourent/4.png"} alt="img" />
                           </div>
                         </div>
                         <div className="destinations-details-main-slider-controls">
@@ -64,7 +64,7 @@ class DestinatioDetails extends Component {
                     <div className="d-client-review-slider-item">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/8.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/8.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -83,7 +83,7 @@ class DestinatioDetails extends Component {
                     <div className="d-client-review-slider-item">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/9.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/9.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -102,7 +102,7 @@ class DestinatioDetails extends Component {
                     <div className="d-client-review-slider-item">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/10.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/10.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -121,7 +121,7 @@ class DestinatioDetails extends Component {
                     <div className="d-client-review-slider-item">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/11.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/11.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -140,7 +140,7 @@ class DestinatioDetails extends Component {
                     <div className="d-client-review-slider-item">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/12.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/12.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -165,7 +165,7 @@ class DestinatioDetails extends Component {
                       <div className="col-lg-4 col-md-6">
                         <div className="single-trip-plan">
                           <div className="thumb single-trip-plan-left">
-                            <img src={publicUrl+"assets/img/others/6.png"} alt="blog" />
+                            <img src={publicUrl+"assets/img/restourent/6.png"} alt="blog" />
                           </div>
                           <div className="single-trip-plan-right">
                             <ul className="tp-list-meta border-bt-dot">
@@ -184,7 +184,7 @@ class DestinatioDetails extends Component {
                       <div className="col-lg-4 col-md-6">
                         <div className="single-trip-plan">
                           <div className="thumb single-trip-plan-left">
-                            <img src={publicUrl+"assets/img/others/7.png"} alt="blog" />
+                            <img src={publicUrl+"assets/img/restourent/7.png"} alt="blog" />
                           </div>
                           <div className="single-trip-plan-right">
                             <ul className="tp-list-meta border-bt-dot">
@@ -203,7 +203,7 @@ class DestinatioDetails extends Component {
                       <div className="col-lg-4 col-md-6">
                         <div className="single-trip-plan">
                           <div className="thumb single-trip-plan-left">
-                            <img src={publicUrl+"assets/img/others/6.png"} alt="blog" />
+                            <img src={publicUrl+"assets/img/restourent/6.png"} alt="blog" />
                           </div>
                           <div className="single-trip-plan-right">
                             <ul className="tp-list-meta border-bt-dot">
@@ -309,7 +309,7 @@ class DestinatioDetails extends Component {
                       </div>
                       <div className="col-xl-3 col-lg-4 offset-xl-1 mt-5 mt-lg-0 hidden-md">
                         <a href="#">
-                          <img src={publicUrl+"assets/img/others/01.png"} alt="ads" />
+                          <img src={publicUrl+"assets/img/restourent/01.png"} alt="ads" />
                         </a>
                       </div>
                     </div>
@@ -323,7 +323,7 @@ class DestinatioDetails extends Component {
                     <div className="col-lg-4 col-md-6">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/8.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/8.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -343,7 +343,7 @@ class DestinatioDetails extends Component {
                     <div className="col-lg-4 col-md-6">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/9.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/9.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">
@@ -363,7 +363,7 @@ class DestinatioDetails extends Component {
                     <div className="col-lg-4 col-md-6">
                       <div className="single-destination-grid text-center">
                         <div className="thumb">
-                          <img src={publicUrl+"assets/img/destination-list/10.png"} alt="img" />
+                          <img src={publicUrl+"assets/img/games/10.png"} alt="img" />
                         </div>
                         <div className="details">
                           <div className="tp-review-meta">

@@ -5,7 +5,6 @@ import HomeV1 from './components/home-v1';
 import AboutUs from './components/about';
 import TourList from './components/tour-list';
 import GameDetails from './components/game-details';
-import DestinationLIst from './components/destination-list';
 import DestinationDetails from './components/destination-details';
 import Gallery from './components/gallery';
 import GalleryDetails from './components/gallery-details';
@@ -14,10 +13,7 @@ import Contact from './components/contact';
 import Error from './components/error';
 import CommingSoon from './components/comming-soon';
 import UserProfile from './components/user-profile';
-import Blog from './components/blog';
 import PiscineAbonementDetail  from './components/piscineAbonement-details';
-
-
 class Root extends Component {
     render() {
         return(
@@ -27,7 +23,6 @@ class Root extends Component {
 	                    <Route exact path="/" component={HomeV1} />
 	                    <Route path="/about" component={AboutUs} />
 	                    <Route path="/tour-list" component={TourList} />
-	                    <Route path="/destination-list" component={DestinationLIst} />
 	                    <Route path="/destination-details" component={DestinationDetails} />
 	                    <Route path="/gallery" component={Gallery} />
 	                    <Route path="/gallery-details" component={GalleryDetails} />
@@ -36,7 +31,6 @@ class Root extends Component {
 	                    <Route path="/error" component={Error} />
 	                    <Route path="/comming-soon" component={CommingSoon} />
 	                    <Route path="/user-profile" component={UserProfile} />
-	                    <Route path="/blog" component={Blog} />
 						<Route path="/game-details" component={GameDetails} />
 						<Route path="/piscine-details" component={PiscineAbonementDetail} />
 	                </Switch>

@@ -17,8 +17,8 @@ const PiscineAbonementDetailsPage = () => {
     },[])
     return <div>
         <Navbar />
-        <PageHeader headertitle={`Abonnement ${abonement.name} Details`}  />
-        <PisineDetails abonement={abonement} />
+        {abonement && <PageHeader headertitle={`Abonnement ${abonement.name} Details`}  />}
+        {abonement && <PisineDetails abonement={abonement} />}
         <Subscribe />
         <Footer />
     </div>

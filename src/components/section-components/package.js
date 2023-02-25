@@ -22,7 +22,7 @@ class Package extends Component {
 			      <div className="col-xl-3 col-sm-6">
 			        <div className="single-package-card wow animated fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.1s">
 			          <div className="thumb">
-			            <img src={publicUrl+"assets/img/destination-list/28.png"} alt="img" />
+			            <img src={publicUrl+"assets/img/games/28.png"} alt="img" />
 			          </div>
 			          <div className="details">
 			            <div className="location">
@@ -60,7 +60,7 @@ class Package extends Component {
 			      <div className="col-xl-3 col-sm-6">
 			        <div className="single-package-card wow animated fadeInUp" data-wow-duration="0.7s" data-wow-delay="0.2s">
 			          <div className="thumb">
-			            <img src={publicUrl+"assets/img/destination-list/29.png"} alt="img" />
+			            <img src={publicUrl+"assets/img/games/29.png"} alt="img" />
 			          </div>
 			          <div className="details">
 			            <div className="location">
@@ -98,7 +98,7 @@ class Package extends Component {
 			      <div className="col-xl-3 col-sm-6">
 			        <div className="single-package-card wow animated fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.3s">
 			          <div className="thumb">
-			            <img src={publicUrl+"assets/img/destination-list/30.png"} alt="img" />
+			            <img src={publicUrl+"assets/img/games/30.png"} alt="img" />
 			          </div>
 			          <div className="details">
 			            <div className="location">
@@ -136,7 +136,7 @@ class Package extends Component {
 			      <div className="col-xl-3 col-sm-6">
 			        <div className="single-package-card wow animated fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
 			          <div className="thumb">
-			            <img src={publicUrl+"assets/img/destination-list/31.png"} alt="img" />
+			            <img src={publicUrl+"assets/img/games/31.png"} alt="img" />
 			          </div>
 			          <div className="details">
 			            <div className="location">

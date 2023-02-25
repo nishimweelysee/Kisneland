@@ -14,7 +14,7 @@ class BlogDetails extends Component {
 		      <div className="col-lg-8">
 		        <div className="single-blog mb-0">
 		          <div className="thumb">
-		            <img src={publicUrl+"assets/img/blog-details/1.png"} alt="blog" />
+		            <img src={publicUrl+"assets/img/mettings-details/1.png"} alt="blog" />
 		          </div>
 		          <div className="single-blog-details">
 		            <p className="date mb-0">19 September 2019</p>
@@ -37,31 +37,31 @@ class BlogDetails extends Component {
 		              {/* gallery-item */}
 		              <div className="tp-gallery-item col-md-4 col-sm-6 mb-10">
 		                <div className="tp-gallery-item-img">
-		                  <img src={publicUrl+"assets/img/blog-details/2.png"} alt="image" />
+		                  <img src={publicUrl+"assets/img/mettings-details/2.png"} alt="image" />
 		                </div>
 		              </div>
 		              {/* gallery-item */}
 		              <div className="tp-gallery-item col-md-4 col-sm-6">
 		                <div className="tp-gallery-item-img">
-		                  <img src={publicUrl+"assets/img/blog-details/3.png"} alt="image" />
+		                  <img src={publicUrl+"assets/img/mettings-details/3.png"} alt="image" />
 		                </div>
 		              </div>
 		              {/* gallery-item */}
 		              <div className="tp-gallery-item col-md-4 col-sm-6">
 		                <div className="tp-gallery-item-img">
-		                  <img src={publicUrl+"assets/img/blog-details/4.png"} alt="image" />
+		                  <img src={publicUrl+"assets/img/mettings-details/4.png"} alt="image" />
 		                </div>
 		              </div>
 		              {/* gallery-item */}
 		              <div className="tp-gallery-item col-md-4 col-sm-6">
 		                <div className="tp-gallery-item-img">
-		                  <img src={publicUrl+"assets/img/blog-details/5.png"} alt="image" />
+		                  <img src={publicUrl+"assets/img/mettings-details/5.png"} alt="image" />
 		                </div>
 		              </div>
 		              {/* gallery-item */}
 		              <div className="tp-gallery-item col-md-4 col-sm-6">
 		                <div className="tp-gallery-item-img">
-		                  <img src={publicUrl+"assets/img/blog-details/6.png"} alt="image" />
+		                  <img src={publicUrl+"assets/img/mettings-details/6.png"} alt="image" />
 		                </div>
 		              </div>
 		            </div>
@@ -73,7 +73,7 @@ class BlogDetails extends Component {
 		        <h4 className="single-page-small-title mt-5">Praesent eu dolor eu orci vehicula euismod.</h4>
 		        <div className="video-popup-wrap style-two">
 		          <div className="thumb">
-		            <img src={publicUrl+"assets/img/blog-details/7.png"} alt="video" />
+		            <img src={publicUrl+"assets/img/mettings-details/7.png"} alt="video" />
 		          </div>
 		          <div className="video-popup-btn">
 		            <a href="https://www.youtube.com/watch?v=c7XEhXZ_rsk" className="video-play-btn mfp-iframe"><i className="fa fa-play" /></a>
@@ -139,7 +139,7 @@ class BlogDetails extends Component {
 		        {/* author-area-start */}
 		        <div className="author-area media">
 		          <div className="media-left">
-		            <img src={publicUrl+"assets/img/blog-details/8.png"} alt="img" />
+		            <img src={publicUrl+"assets/img/mettings-details/8.png"} alt="img" />
 		          </div>
 		          <div className="media-body">
 		            <h4>Keanu Wood</h4>
@@ -168,7 +168,7 @@ class BlogDetails extends Component {
 		            <li>
 		              <div className="single-comment-wrap">
 		                <div className="thumb">
-		                  <img src={publicUrl+"assets/img/blog-details/9.png"} alt="img" />
+		                  <img src={publicUrl+"assets/img/mettings-details/9.png"} alt="img" />
 		                </div>
 		                <div className="content">
 		                  <h4 className="title">Tyler Bailey</h4>
@@ -183,7 +183,7 @@ class BlogDetails extends Component {
 		                <li>
 		                  <div className="single-comment-wrap">
 		                    <div className="thumb">
-		                      <img src={publicUrl+"assets/img/blog-details/10.png"} alt="img" />
+		                      <img src={publicUrl+"assets/img/mettings-details/10.png"} alt="img" />
 		                    </div>
 		                    <div className="content">
 		                      <h4 className="title">Laurie</h4>
@@ -198,7 +198,7 @@ class BlogDetails extends Component {
 		            <li>
 		              <div className="single-comment-wrap">
 		                <div className="thumb">
-		                  <img src={publicUrl+"assets/img/blog-details/11.png"} alt="img" />
+		                  <img src={publicUrl+"assets/img/mettings-details/11.png"} alt="img" />
 		                </div>
 		                <div className="content">
 		                  <h4 className="title">Eliza Jordan</h4>

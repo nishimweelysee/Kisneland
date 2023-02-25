@@ -7,19 +7,19 @@ class AbonnementDetails extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      name:"",
-      email:"",
-      phone:"",
-      startDate:null,
-      endDate:null,
-      message:""
+      name: "",
+      email: "",
+      phone: "",
+      startDate: null,
+      endDate: null,
+      message: ""
     }
   }
   componentDidMount() {
     console.log(this.props.abonement.included)
   }
 
-  async sendEmail(email){
+  async sendEmail(email) {
     const mailOpt = {
       from: 'intercorep@gmail.com',
       to: 'intercorep@gmail.com',
@@ -50,46 +50,17 @@ class AbonnementDetails extends Component {
                   </div>
                 </div>
               </div>
-              {/* gallery-item */}
-              <div className="tp-gallery-item col-md-3 col-sm-6">
-                <div className="tp-gallery-item-img">
-                  <a href="#" data-effect="mfp-zoom-in">
-                    <img src={publicUrl + "img/tour-details/2.png"} alt="image" />
-                  </a>
-                </div>
-              </div>
-              {/* gallery-item */}
-              <div className="tp-gallery-item col-lg-2 col-md-4 col-sm-6">
-                <div className="tp-gallery-item-img">
-                  <a href="#" data-effect="mfp-zoom-in">
-                    <img src={publicUrl + "img/tour-details/3.png"} alt="image" />
-                  </a>
-                </div>
-              </div>
-              {/* gallery-item */}
-              <div className="tp-gallery-item col-lg-2 col-md-4 col-sm-6">
-                <div className="tp-gallery-item-img">
-                  <a href="#" data-effect="mfp-zoom-in">
-                    <img src={publicUrl + "img/tour-details/4.png"} alt="image" />
-                  </a>
-                </div>
-              </div>
-              {/* gallery-item */}
-              <div className="tp-gallery-item col-lg-2 col-md-4 col-sm-6">
-                <div className="tp-gallery-item-img">
-                  <a href="#" data-effect="mfp-zoom-in">
-                    <img src={publicUrl + "img/tour-details/5.png"} alt="image" />
-                  </a>
-                </div>
-              </div>
-              {/* gallery-item */}
-              <div className="tp-gallery-item col-lg-2 col-md-4 col-sm-6">
-                <div className="tp-gallery-item-img">
-                  <a href="#" data-effect="mfp-zoom-in">
-                    <img src={publicUrl + "img/tour-details/6.png"} alt="image" />
-                  </a>
-                </div>
-              </div>
+              {
+                this.props.abonement.photos && this.props.abonement.photos.map((abon, ind) => (
+                  <div key={ind} className={`tp-gallery-item  ${abon.class}`}>
+                    <div className="tp-gallery-item-img">
+                      <a href="#" data-effect="mfp-zoom-in">
+                        <img src={publicUrl + abon.img} alt="image" />
+                      </a>
+                    </div>
+                  </div>
+                ))
+              }
             </div>
             <div className="row">
               <div className="col-xl-3 col-lg-4">
@@ -146,12 +117,12 @@ class AbonnementDetails extends Component {
                       <div key={g.id} className="col-lg-4 col-md-4">
                         <div className="single-blog">
                           <div className="thumb">
-                            <img src={publicUrl +g.mainPhoto} alt="blog" />
+                            <img src={publicUrl + g.mainPhoto} alt="blog" />
                           </div>
                           <div className="single-blog-details">
                             <h4 className="title">{g.name}</h4>
                             <p className="content">{g.title}</p>
-                            <Link className="btn-read-more" to={{pathname:"/abonement-details",search:'id='+g.id}}><span>Show More<i className="la la-arrow-right" /></span></Link>
+                            <Link className="btn-read-more" to={{ pathname: "/piscine-details", search: 'id=' + g.id }}><span>Show More<i className="la la-arrow-right" /></span></Link>
                           </div>
                         </div>
                       </div>
@@ -167,35 +138,35 @@ class AbonnementDetails extends Component {
                 <div className="widget-tour-list-meta">
                   <div className="single-widget-search-input-title"><i className="fa fa-user" /> Name</div>
                   <div className="single-widget-search-input">
-                    <input type="text" onInput={e=>this.setState({name:e.target.value})} value={this.state.name} placeholder="Name" />
+                    <input type="text" onInput={e => this.setState({ name: e.target.value })} value={this.state.name} placeholder="Name" />
                   </div>
                   <div className="single-widget-search-input-title"><i className="fa fa-envelope" /> Email</div>
                   <div className="single-widget-search-input">
-                    <input type="text" onInput={e=>this.setState({email:e.target.value})} value={this.state.email}  placeholder="Email" />
+                    <input type="text" onInput={e => this.setState({ email: e.target.value })} value={this.state.email} placeholder="Email" />
                   </div>
                   <div className="single-widget-search-input-title"><i className="fa fa-phone" /> Phone</div>
                   <div className="single-widget-search-input">
-                    <input type="text" onInput={e=>this.setState({phone:e.target.value})} value={this.state.phone}  placeholder="Phone" />
+                    <input type="text" onInput={e => this.setState({ phone: e.target.value })} value={this.state.phone} placeholder="Phone" />
                   </div>
                   <div className="single-widget-search-input-title"><i className="fa fa-calendar-minus-o" /> Date</div>
                   <div className="single-widget-search-input">
-                    <input type="text" onChange={e=>this.setState({startDate:e.target.value})} value={this.state.startDate}  className="departing-date custom-select" placeholder="Departing" />
+                    <input type="text" onChange={e => this.setState({ startDate: e.target.value })} value={this.state.startDate} className="departing-date custom-select" placeholder="Departing" />
                   </div>
                   <div className="single-widget-search-input-title"><i className="fa fa-calendar-minus-o" /> Date</div>
                   <div className="single-widget-search-input">
-                    <input type="text" onChange={e=>this.setState({endDate:e.target.value})} value={this.state.endDate}  className="returning-date custom-select" placeholder="Returning" />
+                    <input type="text" onChange={e => this.setState({ endDate: e.target.value })} value={this.state.endDate} className="returning-date custom-select" placeholder="Returning" />
                   </div>
                   <div className="single-widget-search-input-title"><i className="fa fa-keyboard-o" /> Message</div>
                   <div className="single-widget-search-input">
-                    <textarea placeholder="Type" onInput={e=>this.setState({message:e.target.value})} value={this.state.message}  defaultValue={""} />
+                    <textarea placeholder="Type" onInput={e => this.setState({ message: e.target.value })} value={this.state.message} defaultValue={""} />
                   </div>
                   <div className="text-lg-center text-left">
-                    <a className="btn btn-yellow" href="#" onClick={e=>this.sendEmail(this.state)}>Book Now <i className="fa fa-paper-plane" /></a>
+                    <a className="btn btn-yellow" href="#" onClick={e => this.sendEmail(this.state)}>Book Now <i className="fa fa-paper-plane" /></a>
                   </div>
                 </div>
               </div>
               <div className="widget_ads">
-                <a href="#"><img className="w-100" src={publicUrl + "img/others/01.png"} alt="img" /></a>
+                <a href="#"><img className="w-100" src={publicUrl + "img/restourent/01.png"} alt="img" /></a>
               </div>
             </div>
           </div>

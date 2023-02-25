@@ -14,7 +14,7 @@ class Review extends Component {
 			      <div className="col-lg-6 align-self-center">
 			        <div className="thumb wow animated fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
 			          <div className="client-review-thumb">
-			            <img src={publicUrl+"assets/img/others/client-review.png" }alt="review" />
+			            <img src={publicUrl+"assets/img/restourent/client-review.png" }alt="review" />
 			          </div>
 			        </div>
 			      </div>

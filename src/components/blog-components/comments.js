@@ -13,7 +13,7 @@ class Comments extends Component {
 	          <ul className="comment-list">
 	            <li>
 	              <div className="comment-autor">
-	                <img src={publicUrl+"assets/img/blog-details/04.jpg"} alt="Comment" />
+	                <img src={publicUrl+"assets/img/mettings-details/04.jpg"} alt="Comment" />
 	              </div>
 	              <div className="comment-desc">
 	                <h6>Alexzeder Alex <span className="comment-date"> 25 Feb 2020</span></h6>
@@ -24,7 +24,7 @@ class Comments extends Component {
 	              <ul className="children">
 	                <li>
 	                  <div className="comment-autor">
-	                    <img src={publicUrl+"assets/img/blog-details/05.jpg"} alt="Comment" />
+	                    <img src={publicUrl+"assets/img/mettings-details/05.jpg"} alt="Comment" />
 	                  </div>
 	                  <div className="comment-desc">
 	                    <h6>Alexzeder Alex <span className="comment-date"> 25 Feb 2020</span></h6>
@@ -38,7 +38,7 @@ class Comments extends Component {
 	            </li>
 	            <li>
 	              <div className="comment-autor">
-	                <img src={publicUrl+"assets/img/blog-details/06.jpg"} alt="Comment" />
+	                <img src={publicUrl+"assets/img/mettings-details/06.jpg"} alt="Comment" />
 	              </div>
 	              <div className="comment-desc">
 	                <h6>Alexzeder Alex <span className="comment-date"> 25 Feb 2020</span></h6>

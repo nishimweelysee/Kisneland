@@ -48,7 +48,7 @@ class Faq extends Component {
                           </ul>
                         </div>
                         <div className="col-md-7">
-                          <div className="tab-content faq-tab-content" style={{backgroundImage: 'url('+publicUrl+'assets/img/others/12.png)'}}>
+                          <div className="tab-content faq-tab-content" style={{backgroundImage: 'url('+publicUrl+'assets/img/restourent/12.png)'}}>
                             <div className="tab-pane fade show active" id="tabs_1">
                               <div className="faq-details">
                                 <h6>01 I have special dietary requirements – will they be catered for?</h6>

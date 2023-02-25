@@ -14,9 +14,14 @@
         "price":700,
         "revisedPrice":10000,
         "review":5,
-        "mainPhoto":"img/destination-list/4.png",
+        "mainPhoto":"img/Piscine/4.png",
         "duration":"1 Day",
-        "persons":"1 Person"
+        "persons":"1 Person",
+        "photos":[{"img":"img/Piscine/8.png","class":"col-md-3 col-sm-6"},
+            {"img":"img/Piscine/6.png","class":"col-lg-2 col-md-4 col-sm-6"},
+            {"img":"img/Piscine/7.png","class":"col-lg-2 col-md-4 col-sm-6"},
+            {"img":"img/Piscine/4.png","class":"col-lg-2 col-md-4 col-sm-6"},
+            {"img":"img/Piscine/5.png","class":"col-lg-2 col-md-4 col-sm-6"}]
     },
     {
         "id":"abonnement-2",
@@ -28,9 +33,14 @@
         "price":800,
         "revisedPrice":11000,
         "review":5,
-        "mainPhoto":"img/destination-list/5.png",
+        "mainPhoto":"img/Piscine/5.png",
         "duration":"1 Week",
-        "persons":"1 Person"
+        "persons":"1 Person",
+        "photos":[{"img":"img/Piscine/8.png","class":"col-md-3 col-sm-6"},
+            {"img":"img/Piscine/6.png","class":"col-lg-2 col-md-4 col-sm-6"},
+            {"img":"img/Piscine/7.png","class":"col-lg-2 col-md-4 col-sm-6"},
+            {"img":"img/Piscine/4.png","class":"col-lg-2 col-md-4 col-sm-6"},
+            {"img":"img/Piscine/5.png","class":"col-lg-2 col-md-4 col-sm-6"}]
     },
     {
         "id":"abonnement-3",
@@ -42,9 +52,14 @@
         "price":800,
         "revisedPrice":11000,
         "review":5,
-        "mainPhoto":"img/destination-list/6.png",
+        "mainPhoto":"img/Piscine/6.png",
         "duration":"2 Weeks",
-        "persons":"1 Person"
+        "persons":"1 Person",
+        "photos":[{"img":"img/Piscine/8.png","class":"col-md-3 col-sm-6"},
+        {"img":"img/Piscine/6.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/7.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/4.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/5.png","class":"col-lg-2 col-md-4 col-sm-6"}]
     },
     {
         "id":"abonnement-4",
@@ -56,9 +71,14 @@
         "price":800,
         "revisedPrice":11000,
         "review":5,
-        "mainPhoto":"img/destination-list/7.png",
+        "mainPhoto":"img/Piscine/7.png",
         "duration":"1 Month",
-        "persons":"1 Person"
+        "persons":"1 Person",
+        "photos":[{"img":"img/Piscine/8.png","class":"col-md-3 col-sm-6"},
+        {"img":"img/Piscine/6.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/7.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/4.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/5.png","class":"col-lg-2 col-md-4 col-sm-6"}]
     }
     , {
         "id":"abonnement-5",
@@ -70,8 +90,13 @@
         "price":10000,
         "revisedPrice":11000,
         "review":5,
-        "mainPhoto":"img/destination-list/7.png",
+        "mainPhoto":"img/Piscine/7.png",
         "duration":"1 Month",
-        "persons":"1 Person"
+        "persons":"1 Person",
+        "photos":[{"img":"img/Piscine/8.png","class":"col-md-3 col-sm-6"},
+        {"img":"img/Piscine/6.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/7.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/4.png","class":"col-lg-2 col-md-4 col-sm-6"},
+        {"img":"img/Piscine/5.png","class":"col-lg-2 col-md-4 col-sm-6"}]
     }
 ]

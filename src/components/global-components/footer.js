@@ -67,11 +67,8 @@ class Footer_v1 extends Component {
 				        <div className="footer-widget widget">
 				          <h4 className="widget-title">Quick Link</h4>
 				          <ul className="widget_nav_menu  viaje-go-top">
-				            <li><Link to="/home-v2">Home</Link></li>
+				            <li><Link to="/">Home</Link></li>
 				            <li><Link to="/about">About Us</Link></li>
-				            <li><Link to="/destination-list">Destination</Link></li>
-				            <li><Link to="/tour-details">Tours</Link></li>
-				            <li><Link to="/blog">Blog</Link></li>
 				            <li><Link to="/contact">Contact</Link></li>
 				          </ul>
 				        </div>
@@ -80,12 +77,12 @@ class Footer_v1 extends Component {
 				        <div className="footer-widget widget">
 				          <h4 className="widget-title">Instagram Gallery</h4>
 				          <ul className="widget-instagram-feed">
-				            <li><a href="#"><img src={publicUrl+"assets/img/instagram/1.png"} alt="img" /></a></li>
-				            <li><a href="#"><img src={publicUrl+"assets/img/instagram/2.png"} alt="img" /></a></li>
-				            <li><a href="#"><img src={publicUrl+"assets/img/instagram/3.png"} alt="img" /></a></li>
-				            <li><a href="#"><img src={publicUrl+"assets/img/instagram/4.png"} alt="img" /></a></li>
-				            <li><a href="#"><img src={publicUrl+"assets/img/instagram/5.png"} alt="img" /></a></li>
-				            <li><a href="#"><img src={publicUrl+"assets/img/instagram/6.png"} alt="img" /></a></li>
+				            <li><a href="#"><img height={"90px"} width={"90px"} src={publicUrl+"assets/img/mettings/12.png"} alt="img" /></a></li>
+				            <li><a href="#"><img height={"90px"} width={"90px"}  src={publicUrl+"assets/img/mettings/13.png"} alt="img" /></a></li>
+				            <li><a href="#"><img height={"90px"} width={"90px"}  src={publicUrl+"assets/img/restourent/pexels-chan-walrus-941861.jpg"} alt="img" /></a></li>
+				            <li><a href="#"><img height={"90px"} width={"90px"} src={publicUrl+"assets/img/games/1.png"} alt="img" /></a></li>
+				            <li><a href="#"><img height={"90px"} width={"90px"} src={publicUrl+"assets/img/games/2.png"} alt="img" /></a></li>
+				            <li><a href="#"><img height={"90px"} width={"90px"} src={publicUrl+"assets/img/games/3.png"} alt="img" /></a></li>
 				          </ul>
 				        </div>
 				      </div>

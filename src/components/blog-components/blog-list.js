@@ -15,112 +15,112 @@ class BlogList extends Component {
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/1.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Europe</Link>
+		                <img src={publicUrl+"assets/img/mettings/1.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Europe</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><Link to="/blog-details">Why You Shouldn Elephants France.</Link></h4>
+		                <h4 className="title"><Link to="/mettings-details">Why You Shouldn Elephants France.</Link></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/2.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Asia</Link>
+		                <img src={publicUrl+"assets/img/mettings/2.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Asia</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><Link to="/blog-details">Aliquam faucibus, nec commodo</Link></h4>
+		                <h4 className="title"><Link to="/mettings-details">Aliquam faucibus, nec commodo</Link></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/3.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Europe</Link>
+		                <img src={publicUrl+"assets/img/mettings/3.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Europe</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><a to="/blog-details">Why You Shouldn Elephants France.</a></h4>
+		                <h4 className="title"><a to="/mettings-details">Why You Shouldn Elephants France.</a></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/4.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Europe</Link>
+		                <img src={publicUrl+"assets/img/mettings/4.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Europe</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><Link to="/blog-details">Duis pretium gravida enim, vel maximus</Link></h4>
+		                <h4 className="title"><Link to="/mettings-details">Duis pretium gravida enim, vel maximus</Link></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/5.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Island </Link>
+		                <img src={publicUrl+"assets/img/mettings/5.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Island </Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><Link to="/blog-details">Duis pretium gravida enim</Link></h4>
+		                <h4 className="title"><Link to="/mettings-details">Duis pretium gravida enim</Link></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/6.png" }alt="blog" />
-		                <Link className="tag" to="/blog-v2">Europe</Link>
+		                <img src={publicUrl+"assets/img/mettings/6.png" }alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Europe</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><Link to="/blog-details">Why You Shouldn Elephants France.</Link></h4>
+		                <h4 className="title"><Link to="/mettings-details">Why You Shouldn Elephants France.</Link></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/7.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Europe</Link>
+		                <img src={publicUrl+"assets/img/mettings/7.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Europe</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><a to="/blog-details">Etiam convallis elementum sapien</a></h4>
+		                <h4 className="title"><a to="/mettings-details">Etiam convallis elementum sapien</a></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
 		          <div className="col-lg-6 col-md-6">
 		            <div className="single-blog">
 		              <div className="thumb">
-		                <img src={publicUrl+"assets/img/blog/8.png"} alt="blog" />
-		                <Link className="tag" to="/blog-v2">Europe</Link>
+		                <img src={publicUrl+"assets/img/mettings/8.png"} alt="blog" />
+		                <Link className="tag" to="/mettings-v2">Europe</Link>
 		              </div>
 		              <div className="single-blog-details">
 		                <p className="date">19 September 2019</p>
-		                <h4 className="title"><a to="/blog-details">Duis porta, ligula rhoncus euismod</a></h4>
+		                <h4 className="title"><a to="/mettings-details">Duis porta, ligula rhoncus euismod</a></h4>
 		                <p className="content">Praesent eu dolor eu orci vehicula euismod. Vivamus sed sollicitudin libero, vel malesuada</p>
-		                <Link className="btn-read-more" to="/blog-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                <Link className="btn-read-more" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
 		              </div>
 		            </div>
 		          </div>
