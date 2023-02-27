@@ -18,8 +18,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -31,23 +31,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>20000 <small>CFA</small></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games  <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges  <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>
@@ -64,8 +64,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -77,23 +77,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>20000 <small>CFA</small></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>
@@ -110,8 +110,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -123,23 +123,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>20000 <small>CFA</small></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>
@@ -156,8 +156,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -169,23 +169,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>20000 <small>CFA</small></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>
@@ -202,8 +202,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -215,23 +215,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>20000 <span>CFA</span></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games  <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges  <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>
@@ -248,8 +248,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -261,23 +261,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>20000 <small>CFA</small></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>
@@ -294,8 +294,8 @@ class Banner extends Component {
 			            <div className="row">
 			              <div className="col-lg-9 col-sm-8">
 			                <div className="banner-inner">
-			                  <p className="banner-cat s-animate-1">Hot Places</p>
-			                  <h2 className="banner-title s-animate-2">N'Djamena  <br /> Park</h2>
+			                  <p className="banner-cat s-animate-1">Visiter</p>
+			                  <h2 className="banner-title s-animate-2">KisneLand  <br /> </h2>
 			                </div>
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
@@ -307,23 +307,23 @@ class Banner extends Component {
 			                <div className="row">
 			                  <div className="col-sm-4 s-animate-3">
 			                    <div className="tp-price-meta">
-			                      <p>Price</p>
-			                      <h2>620 <small>CFA</small></h2>
-			                      <p className="tp-price-meta-details">7 Days Access <span>on 2 person</span></p>
+			                      <p>Meilleur Prix</p>
+			                      <h5>à partir de 5000 <small>CFA</small></h5>
+			                      <p className="tp-price-meta-details">accès tous les jours <span></span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-4">
 			                    <div className="tp-price-meta">
-			                      <p>Best</p>
-			                      <h2>Games</h2>
-			                      <p className="tp-price-meta-details">Games  <span>to choice</span></p>
+			                      <p>Meilleur</p>
+			                      <h2>Manèges</h2>
+			                      <p className="tp-price-meta-details">Manèges  <span>à choisir</span></p>
 			                    </div>
 			                  </div>
 			                  <div className="col-sm-4 s-animate-5">
 			                    <div className="tp-price-meta">
-			                      <p>Visit date</p>
-			                      <h2>17</h2>
-			                      <p className="tp-price-meta-details">September <span>or later</span></p>
+			                      <p>Date de Visite</p>
+			                      <h5>tous les jours</h5>
+			                      <p className="tp-price-meta-details">Matin <span>ou Soir</span></p>
 			                    </div>
 			                  </div>
 			                </div>

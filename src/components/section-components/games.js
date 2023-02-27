@@ -14,8 +14,8 @@ class Game extends Component {
 				<div className="row justify-content-center">
 					<div className="col-xl-6 col-lg-8">
 						<div className="section-title text-center">
-							<h2 className="title">Special offers &amp; Discounts</h2>
-							<p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+							<h2 className="title">Offres Spéciales &amp; Réductions</h2>
+							<p>week-ends !!!!!!, KisneLand vous apporte le week-end le plus heureux que vous puissiez avoir !. venez profiter d'offres spéciales et de réductions tous les week-ends</p>
 						</div>
 					</div>
 				</div>
@@ -30,11 +30,11 @@ class Game extends Component {
 										<div className="d-list-slider-item" key={g.id}>
 											<div className="single-destinations-list text-center">
 												<div className="thumb">
-													<span className="d-list-tag">Special Game</span>
+													<span className="d-list-tag">Manèges Spécial</span>
 													<img src={publicUrl + g.mainPhoto} alt="list" />
 													<div className="d-list-btn-wrap">
 														<div className="d-list-btn viaje-go-top">
-															<Link className="btn btn-yellow" to={{pathname:"/game-details",search:'id='+g.id}}>Book Now <i className="fa fa-paper-plane" /></Link>
+															<Link className="btn btn-yellow" to={{pathname:"/game-details",search:'id='+g.id}}>Voir plus <i className="fa fa-paper-plane" /></Link>
 														</div>
 													</div>
 												</div>
@@ -47,7 +47,7 @@ class Game extends Component {
 														<li><i className="fa fa-star" /> {g.review}</li>
 													</ul>
 													<div className="tp-price-meta tp-price-meta-cl">
-														<p>Price</p>
+														<p>Prix</p>
 														<h2>{g.price} <small>CFA</small></h2>
 														<del>{g.revisedPrice}<span>CFA</span></del>
 													</div>

@@ -27,7 +27,7 @@ class Footer_v1 extends Component {
 				            <Link to="/" className="footer-logo"> 
 				              <img src={publicUrl+"assets/img/logo.png"} alt="footer logo" />
 				            </Link>
-				            <p>We believe brand interaction is key in commu- nication. Real innovations and a positive customer experience are the heart of successful communication.</p>
+				            <p>suivez-nous sur nos réseaux sociaux pour plus de mises à jour</p>
 				            <ul className="social-icon">
 				              <li>
 				                <a className="facebook" href="https://www.facebook.com/codingeek.net/" target="_blank"><i className="fa fa-facebook  " /></a>
@@ -45,14 +45,14 @@ class Footer_v1 extends Component {
 				      <div className="col-lg-3 col-md-6">
 				        <div className="footer-widget widget ">
 				          <div className="widget-contact">
-				            <h4 className="widget-title">Contact us</h4>
+				            <h4 className="widget-title">Contactez-nous</h4>
 				            <p>
 				              <i className="fa fa-map-marker" /> 
 				              <span>N'damena</span>
 				            </p>
 				            <p className="location"> 
 				              <i className="fa fa-envelope-o" />
-				              <span>ndjpark@gmail.com</span>
+				              <span>kisneland.td@gmail.com</span>
 				            </p>
 				            <p className="telephone">
 				              <i className="fa fa-phone base-color" /> 
@@ -65,10 +65,10 @@ class Footer_v1 extends Component {
 				      </div>
 				      <div className="col-lg-2 col-md-6">
 				        <div className="footer-widget widget">
-				          <h4 className="widget-title">Quick Link</h4>
+				          <h4 className="widget-title">Lien rapide</h4>
 				          <ul className="widget_nav_menu  viaje-go-top">
-				            <li><Link to="/">Home</Link></li>
-				            <li><Link to="/about">About Us</Link></li>
+				            <li><Link to="/">Accueil</Link></li>
+				            <li><Link to="/about">À propos de nous</Link></li>
 				            <li><Link to="/contact">Contact</Link></li>
 				          </ul>
 				        </div>
@@ -90,7 +90,7 @@ class Footer_v1 extends Component {
 				  </div>
 				  <div className="copyright-inner">
 				    <div className="copyright-text">
-				      © Kisneland 2019 All rights reserved. Powered with by <a href="https://codingeek.net/" target="_blank"><i className="fa fa-heart" /><span>Codingeek.</span></a>
+				      © Kisneland 2019 All rights reserved. 
 				    </div>
 				  </div>
 				</footer>

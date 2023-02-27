@@ -31,8 +31,8 @@ class Navbar extends Component {
 			          <li className="tp-lang">
 			            <div className="tp-lang-wrap">
 			              <select className="select single-select">
-						  	<option value={1}>FRE</option>
-			                <option value={1}>ENG</option>
+						  	<option value={1}> </option>
+			                <option value={1}> </option>
 			              </select>
 			            </div>
 			          </li>
@@ -58,7 +58,7 @@ class Navbar extends Component {
 			      </div>
 			      <ul className="navbar-nav">
 			        <li>
-			          <Link to="/">Home</Link>
+			          <Link to="/">Accueil</Link>
 			          {/* <ul className="sub-menu">
 			            <li><Link to="/">Home 01</Link></li>
 			            <li><Link to="/home-v2">Home 02</Link></li>
@@ -66,7 +66,7 @@ class Navbar extends Component {
 			          </ul> */}
 			        </li>
 			        <li>
-			          <Link to="/about">About Us</Link>
+			          <Link to="/about">À propos de nous</Link>
 			        </li>
 			        {/* <li className="menu-item-has-children">
 			          <a href="#">Pages</a>
@@ -103,13 +103,13 @@ class Navbar extends Component {
 			    <div className="nav-right-content">
 			      <ul>
 			        <li>
-			          <Link className="btn btn-yellow" to="/tour-details">Book Now <i className="fa fa-paper-plane" /></Link>
+			          <Link className="btn btn-yellow" to="/tour-details">Reserve maintenant <i className="fa fa-paper-plane" /></Link>
 			        </li>
 			        <li className="tp-lang">
 			          <div className="tp-lang-wrap">
 			            <select className="select single-select">
-			              <option value={1}>FR</option>
-			              <option value={2}>ENG</option>
+			              <option value={1}> </option>
+			              <option value={2}> </option>
 			            </select>
 			          </div>
 			        </li>

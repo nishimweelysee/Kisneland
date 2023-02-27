@@ -15,7 +15,7 @@ class About extends Component {
                   <div className="col-lg-5 align-self-center">
                     <div className="section-title mb-lg-0">
                       <h2 className="title">Kisneland <br /> Tchad</h2>
-                      <p>Donec dapibus mauris id odio ornare tempus. Duis sit amet accumsan justo, quis tempor ligula. Quisque quis pharetra felis. Ut quis consequat orci, at consequat felis. Suspendisse auctor laoreet placerat. Nam et risus non lacus dignissim lacinia sit amet nec eros. Nulla vel urna quis libero pharetra varius. Nulla tellus nunc, malesuada at scelerisque eget, cursus at eros. Maecenas pellentesque lacus quis erat eleifend sagittis. Sed vel maximus ante, quis mattis neque. Nullam dapibus erat sed nulla cursus accumsan. Nulla volutpat libero lacinia venenatis sodales. Ut in pellentesque.</p>
+                      <p>KisneLand est une aire de jeux pour enfants pleine de jeux les plus étonnants pour les enfants, et propose différents abonnements à la piscine pour enfants et adultes, KisneLand est au cœur de N'djamena, ouvert tous les jours de la semaine et propose plusieurs offres spéciales le week-end, KisneLand a la meilleure cuisine de la ville, visitez notre restaurant et profitez-en au maximum.</p>
                     </div>
                   </div>
                   <div className="col-lg-5 offset-lg-2">

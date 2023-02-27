@@ -67,7 +67,7 @@ class AbonnementDetails extends Component {
                 <div className="details">
                   <p className="location mb-0"><i className="fa fa-map-marker" />Tchad</p>
                   <h4 className="title">Ndjamena</h4>
-                  <p className="content">3 days 2 person</p>
+                  <p className="content">3 jours 2 person</p>
                   <div className="tp-review-meta">
                     <i className="ic-yellow fa fa-star" />
                     <i className="ic-yellow fa fa-star" />
@@ -94,7 +94,7 @@ class AbonnementDetails extends Component {
                 </div>
                 <ul className="tp-list-meta border-tp-solid">
                   <li className="ml-0"><i className="fa fa-calendar-o" /> 8 Oct</li>
-                  <li><i className="fa fa-clock-o" /> 4 Days</li>
+                  <li><i className="fa fa-clock-o" /> 4 Jours</li>
                   <li><i className="fa fa-users" />2 Person</li>
                   <li><i className="fa fa-snowflake-o" /> Relaxing</li>
                   <li><i className="fa fa-star" /> {this.props.abonement.review}</li>

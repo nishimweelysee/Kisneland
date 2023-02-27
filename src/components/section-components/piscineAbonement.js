@@ -13,7 +13,7 @@ class PiscineAbonement extends Component {
 					<div className="col-xl-6 col-lg-9">
 						<div className="section-title text-center">
 							<h2 className="title wow animated fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.1s">Plan de la piscine</h2>
-							<p className="wow animated fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.2s">No vis fastidii accumsan, ignota postulant ea mea. Vis et prima integre, ei vis ridens moderatius reformidans cu vim doctus accumsan ignota.</p>
+							<p className="wow animated fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.2s">Le plan de piscine va du lundi au lundi de 8h jusqu'à tard et nous offrons les meilleurs prix sur les abonnements car nous proposons des abonnements quotidiens, mensuels et annuels</p>
 						</div>
 					</div>
 				</div>
@@ -27,7 +27,7 @@ class PiscineAbonement extends Component {
 											<div className="d-list-slider-item" key={p.id}>
 												<div className="single-destinations-list">
 													<div className="thumb text-center">
-														<span className="d-list-tag">Special Abonnement</span>
+														<span className="d-list-tag">Abonnement spécial</span>
 														<img src={publicUrl + p.mainPhoto} alt="list" />
 														<div className="d-list-btn-wrap">
 															<div className="d-list-btn viaje-go-top">

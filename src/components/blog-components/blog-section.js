@@ -16,10 +16,10 @@ class BlogSection extends Component {
 		          </div>
 		          <div className="single-blog-details single-blog-right-wrap">
 		            <Link className="tag" to="/mettings-details">N'djamena</Link>
-		            <p className="date">Every Day</p>
-		            <h4 className="title">Why You Shouldn’t Ride Elephants In France.</h4>
-		            <p className="content">Kava contains 30 demos as for now, and we’re planning to release more! Except demos, Kava theme has more and more features for.. users, business, companies, developers, bloggers and other categories of users. Even if you are an absolute beginner</p>
-		            <Link className="btn btn-yellow" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		            <p className="date">Tous les jours</p>
+		            <h4 className="title">Pourquoi devriez-vous goûter la cuisine KisneLand ?</h4>
+		            <p className="content">la cuisine est notre passion et notre restaurant propose la meilleure cuisine de la ville, savourez le goût de la cuisine kisneLand</p>
+		            <Link className="btn btn-yellow" to="/mettings-details"><span>En Savoir plus<i className="la la-arrow-right" /></span></Link>
 		          </div>
 		        </div>
 		      </div>
@@ -33,9 +33,9 @@ class BlogSection extends Component {
 		              <div className="single-blog-details-wrap">
 		                <div className="single-blog-details text-center">
 		                  <Link className="tag" to="/mettings-details">Salle de réunion 1</Link>
-		                  <p className="date">Every Day</p>
-		                  <h4 className="title">Why You Shouldn’t Ride Elephants In Thailand</h4>
-		                  <Link className="btn btn-yellow" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                  <p className="date">Tous les jours</p>
+		                  <h4 className="title">Pourquoi devriez-vous préférer nos salles de réunion</h4>
+		                  <Link className="btn btn-yellow" to="/mettings-details"><span>En Savoir plus<i className="la la-arrow-right" /></span></Link>
 		                </div>
 		              </div>
 		            </div>
@@ -48,9 +48,9 @@ class BlogSection extends Component {
 		              <div className="single-blog-details-wrap">
 		                <div className="single-blog-details text-center">
 		                  <Link className="tag" to="/mettings-details">Salle de réunion 2</Link>
-		                  <p className="date">Every Day</p>
-		                  <h4 className="title">10 Best Highways for Romantic Long Drive</h4>
-		                  <Link className="btn btn-yellow" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                  <p className="date">Tous les jours</p>
+		                  <h4 className="title">Pourquoi devriez-vous préférer nos salles de réunion</h4>
+		                  <Link className="btn btn-yellow" to="/mettings-details"><span>En Savoir plus<i className="la la-arrow-right" /></span></Link>
 		                </div>
 		              </div>
 		            </div>
@@ -63,9 +63,9 @@ class BlogSection extends Component {
 		              <div className="single-blog-details-wrap">
 		                <div className="single-blog-details text-center">
 		                  <Link className="tag" to="/mettings-details">Salle de réunion 3</Link>
-		                  <p className="date">Every Day</p>
-		                  <h4 className="title">Rock Climbing Limestone Cliffs At Railay Beach</h4>
-		                  <Link className="btn btn-yellow" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                  <p className="date">Tous les jours</p>
+		                  <h4 className="title">Pourquoi devriez-vous préférer nos salles de réunion</h4>
+		                  <Link className="btn btn-yellow" to="/mettings-details"><span>En Savoir plus<i className="la la-arrow-right" /></span></Link>
 		                </div>
 		              </div>
 		            </div>
@@ -78,9 +78,9 @@ class BlogSection extends Component {
 		              <div className="single-blog-details-wrap">
 		                <div className="single-blog-details text-center">
 		                  <Link className="tag" to="/mettings-details">Salle de réunion 4</Link>
-		                  <p className="date">Every Day</p>
-		                  <h4 className="title">Magic In The Sky: Chasing Iceland’s Lights</h4>
-		                  <Link className="btn btn-yellow" to="/mettings-details"><span>Read More<i className="la la-arrow-right" /></span></Link>
+		                  <p className="date">Tous les jours</p>
+		                  <h4 className="title">Pourquoi devriez-vous préférer nos salles de réunion</h4>
+		                  <Link className="btn btn-yellow" to="/mettings-details"><span>En Savoir plus<i className="la la-arrow-right" /></span></Link>
 		                </div>
 		              </div>
 		            </div>

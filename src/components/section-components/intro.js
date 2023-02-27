@@ -15,9 +15,9 @@ class Intro extends Component {
 				        <div className="single-intro wow animated fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.1s">
 				          <h4 className="intro-title">
 				            <span className="intro-count">01</span>
-				            <Link className="intro-cat" to="/about">Games</Link>
+				            <Link className="intro-cat" to="/about">Manèges</Link>
 				          </h4>
-				          <p>Sponsorships are like unicorns or leprechauns, talked about often but they don’t actually exist. There is only dollars and cents, the ...</p>
+				          <p> KisneLand, nous avons différents Manèges pour les enfants où ils peuvent profiter du bonheur d'une journée entière au meilleur prix, amenez et laissez vos enfants s'amuser au mieux de leur vie</p>
 				        </div>
 				      </div>
 				      <div className="col-md-4">
@@ -26,7 +26,7 @@ class Intro extends Component {
 				            <span className="intro-count">02</span>
 				            <Link className="intro-cat" to="/about">Piscine</Link>
 				          </h4>
-				          <p>My response is usually harsh. Offended at the suggestion that a career that’s taken more than a decade to create could be...</p>
+				          <p>KisneLand offre le meilleur de l'heure de la piscine, avec une variété d'abonnements différents allant des abonnements quotidiens aux abonnements mensuels voire annuels, et nous sommes ouverts du lundi au dimanche</p>
 				        </div>
 				      </div>
 				      <div className="col-md-4">
@@ -35,7 +35,7 @@ class Intro extends Component {
 				            <span className="intro-count">03</span>
 				            <Link className="intro-cat" to="/about">restaurant</Link>
 				          </h4>
-				          <p>I have always made a living to make movies, never the other way around. When I first started I washed in a seafood restaurant....</p>
+				          <p>la cuisine est notre passion et notre restaurant propose la meilleure cuisine de la ville, savourez le goût de la cuisine kisneLand</p>
 				        </div>
 				      </div>
 				    </div>

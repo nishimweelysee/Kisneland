@@ -13,9 +13,9 @@ class Video extends Component {
 			    <div className="row">
 			      <div className="col-xl-5 col-lg-6 align-self-center wow animated fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
 			        <div className="section-title mb-lg-0 mb-4 text-center text-lg-left">
-			          <h2 className="title">What Do You Know <br /> About US</h2>
-			          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when unknown printer took a galley of type and scrambled it to make a type specimen book. It has not only five centuries</p>
-			          <Link className="btn btn-yellow" to="/about"><span>Read More<i className="la la-arrow-right" /></span></Link>
+			          <h2 className="title">Qu'est-ce que Tu sais <br /> À propos de nous</h2>
+			          <p>KisneLand est une aire de jeux pour enfants pleine de jeux les plus étonnants pour les enfants, et propose différents abonnements à la piscine pour enfants et adultes, KisneLand est au cœur de N'djamena, ouvert tous les jours de la semaine et propose plusieurs offres spéciales le week-end, KisneLand a la meilleure cuisine de la ville, visitez notre restaurant et profitez-en au maximum.</p>
+			          <Link className="btn btn-yellow" to="/about"><span>En Savoir plus<i className="la la-arrow-right" /></span></Link>
 			        </div>
 			      </div>
 			      <div className="col-xl-5 col-lg-6 offset-xl-1 wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">

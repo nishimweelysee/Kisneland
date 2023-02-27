@@ -15,8 +15,8 @@ class Contact extends Component {
                   <div className="row justify-content-center">
                     <div className="col-lg-6">
                       <div className="section-title text-lg-center text-left">
-                        <h2 className="title">Get In Touch!</h2>
-                        <p>Vestibulum blandit viverra convallis. Pellentesque ligula urna, fermentum ut semper in, tincidunt nec dui. Morbi mauris lacus, consequat eget justo in</p>
+                        <h2 className="title">Entrer en contact!</h2>
+                        <p>Vous pouvez nous contacter sur notre numéro de téléphone direct ou via nos différentes plateformes de médias sociaux</p>
                       </div>
                     </div>
                   </div>
@@ -31,13 +31,13 @@ class Contact extends Component {
                         <div className="row">
                           <div className="col-md-6">
                             <label className="single-input-wrap style-two">
-                              <span className="single-input-title">Name</span>
+                              <span className="single-input-title">Noms</span>
                               <input type="text" name="name" />
                             </label>
                           </div>
                           <div className="col-md-6">
                             <label className="single-input-wrap style-two">
-                              <span className="single-input-title">Number</span>
+                              <span className="single-input-title">Numero</span>
                               <input type="text" name="number"/>
                             </label>
                           </div>
@@ -76,16 +76,16 @@ class Contact extends Component {
                         </p>
                         <p>
                           <i className="fa fa-clock-o" /> 
-                          <span>Office Hour 9:00 to 7:00 Sunday 10:00 to 5:00</span>
+                          <span>Heure de bureau 8:00 a 7:00 Dimanche 10:00 a 5:00</span>
                         </p>
                         <p>
                           <i className="fa fa-envelope" /> 
-                          <span>Email: <span>Gamepoint@gmail.com</span></span>
+                          <span>Email: <span>kisneland.td@gmail.com</span></span>
                         </p>
                         <p>
                           <i className="fa fa-phone" /> 
                           <span>
-                            sell phone: <span>(+235) 65000536</span> <br />
+                            contact: <span>(+235) 65000536</span> <br />
                             telephone: <span>(+235) 65000536</span>
                           </span>
                         </p>
