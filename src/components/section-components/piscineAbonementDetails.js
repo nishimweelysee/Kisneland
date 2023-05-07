@@ -161,7 +161,7 @@ class AbonnementDetails extends Component {
                     <textarea placeholder="Type" onInput={e => this.setState({ message: e.target.value })} value={this.state.message} defaultValue={""} />
                   </div>
                   <div className="text-lg-center text-left">
-                    <a className="btn btn-yellow" href="#" onClick={e => this.sendEmail(this.state)}>Book Now <i className="fa fa-paper-plane" /></a>
+                    <a className="btn btn-yellow" href="#" onClick={e => this.sendEmail(this.state)}>Reserve maintenant <i className="fa fa-paper-plane" /></a>
                   </div>
                 </div>
               </div>

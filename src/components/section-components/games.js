@@ -7,7 +7,7 @@ class Game extends Component {
 
 	render() {
 
-		let publicUrl = process.env.PUBLIC_URL + '/assets/photo/'
+		let publicUrl = process.env.PUBLIC_URL + '/assets/img/'
 
 		return <div className="offer-area pd-top-70">
 			<div className="container">

@@ -26,7 +26,7 @@ class Navbar extends Component {
 			      <div className="nav-right-content">
 			        <ul className="pl-0">
 			          <li className="top-bar-btn-booking">
-			            <Link className="btn btn-yellow" to="/tour-details">Book Now <i className="fa fa-paper-plane" /></Link>
+			            <Link className="btn btn-yellow" to="/tour-details">Reserve maintenant <i className="fa fa-paper-plane" /></Link>
 			          </li>
 			          <li className="tp-lang">
 			            <div className="tp-lang-wrap">
@@ -102,9 +102,9 @@ class Navbar extends Component {
 			    </div>
 			    <div className="nav-right-content">
 			      <ul>
-			        <li>
+			        {/* <li>
 			          <Link className="btn btn-yellow" to="/tour-details">Reserve maintenant <i className="fa fa-paper-plane" /></Link>
-			        </li>
+			        </li> */}
 			        <li className="tp-lang">
 			          <div className="tp-lang-wrap">
 			            <select className="select single-select">

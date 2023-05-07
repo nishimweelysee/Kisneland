@@ -24,7 +24,7 @@ class Banner extends Component {
 			              </div>
 			              <div className="col-lg-3 col-sm-4">
 			                <div className="video-popup-btn s-animate-video">
-			                  <a href="https://www.youtube.com/watch?v=f5Ov_n0crZ8" className="video-play-btn mfp-iframe"><i className="fa fa-play" /></a>
+			                  <a href={publicUrl + "assets/img/games/video/1.mp4"} className="video-play-btn mfp-iframe"><i className="fa fa-play" /></a>
 			                </div>
 			              </div>
 			              <div className="col-lg-12 banner-Access-package">
