@@ -42,14 +42,14 @@ class Game extends Component {
 													<h4 className="title">{g.name}</h4>
 													<p className="content">{g.title}</p>
 													<ul className="tp-list-meta border-bt-dot">
-														<li><i className="fa fa-calendar-o" /> 8oct</li>
-														<li><i className="fa fa-clock-o" /> 4 days</li>
+														<li><i className="fa fa-calendar-o" /> Jan-Dec</li>
+														<li><i className="fa fa-clock-o" /> 7 Jours</li>
 														<li><i className="fa fa-star" /> {g.review}</li>
 													</ul>
 													<div className="tp-price-meta tp-price-meta-cl">
 														<p>Prix</p>
 														<h2>{g.price} <small>CFA</small></h2>
-														<del>{g.revisedPrice}<span>CFA</span></del>
+														<del>{g.revisedPrix}<span>CFA</span></del>
 													</div>
 												</div>
 											</div>

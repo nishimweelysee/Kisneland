@@ -9,7 +9,7 @@ import games from '../storage/games.json';
 
 const GameDetailsPage = () => {
     const location = useLocation();
-    const [game,setGame] = useState({content:"",description:"",id:"",included:{},mainPhoto:"",name:"",photos: [],price:0,review:0,revisedPrice:0,title:""});
+    const [game,setGame] = useState({content:"",description:"",id:"",included:{},mainPhoto:"",name:"",photos: [],price:0,review:0,revisedPrix:0,title:""});
     useEffect(()=>{
         const query = new URLSearchParams(location.search);
         const g = games.find(p=>p.id==query.get("id"));
@@ -17,7 +17,7 @@ const GameDetailsPage = () => {
     },[])
     return <div>
         <Navbar />
-        <PageHeader headertitle={`Game ${game.name} Details`}  />
+        <PageHeader headertitle={`Manège ${game.name} Details`}  />
         <GameDetails game={game} />
         <Subscribe />
         <Footer />

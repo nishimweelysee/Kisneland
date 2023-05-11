@@ -20,7 +20,7 @@ class Review extends Component {
 			      </div>
 			      <div className="col-lg-6">
 			        <div className="single-client-review wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-			          <p className="sub-title">Restaurant Reviews</p>
+			          <p className="sub-title">Avis sur les restaurants</p>
 			          <h3 className="location-name">Restaurant</h3>
 			          <div className="tp-review-meta">
 			            <i className="ic-yellow fa fa-star" />

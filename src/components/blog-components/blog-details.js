@@ -105,7 +105,7 @@ class BlogDetails extends Component {
 		              <span className="all-tags-title">Related Tags :</span>
 		              <div className="all-tags">
 		                <Link to="blog-v2">Europe</Link>
-		                <Link to="blog-v2">Natural</Link>
+		                <Link to="blog-v2">Nature</Link>
 		                <Link to="blog-v2">Travel</Link>
 		                <Link to="blog-v2">Discover</Link>
 		              </div>

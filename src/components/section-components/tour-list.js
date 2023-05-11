@@ -34,7 +34,7 @@ class TourList extends Component {
                             <li><i className="fa fa-star" /> 4.3</li>
                           </ul>
                           <div className="tp-price-meta d-inline-block">
-                            <p>Price</p>
+                            <p>Prix</p>
                             <h2>620 <span>$</span></h2>
                           </div>
                         </div>
@@ -63,7 +63,7 @@ class TourList extends Component {
                             <li><i className="fa fa-star" /> 4.3</li>
                           </ul>
                           <div className="tp-price-meta d-inline-block">
-                            <p>Price</p>
+                            <p>Prix</p>
                             <h2>620 <span>$</span></h2>
                           </div>
                         </div>
@@ -92,7 +92,7 @@ class TourList extends Component {
                             <li><i className="fa fa-star" /> 4.3</li>
                           </ul>
                           <div className="tp-price-meta d-inline-block">
-                            <p>Price</p>
+                            <p>Prix</p>
                             <h2>620 <span>$</span></h2>
                           </div>
                         </div>
@@ -121,7 +121,7 @@ class TourList extends Component {
                             <li><i className="fa fa-star" /> 4.3</li>
                           </ul>
                           <div className="tp-price-meta d-inline-block">
-                            <p>Price</p>
+                            <p>Prix</p>
                             <h2>620 <span>$</span></h2>
                           </div>
                         </div>
@@ -150,7 +150,7 @@ class TourList extends Component {
                             <li><i className="fa fa-star" /> 4.3</li>
                           </ul>
                           <div className="tp-price-meta d-inline-block">
-                            <p>Price</p>
+                            <p>Prix</p>
                             <h2>620 <span>$</span></h2>
                           </div>
                         </div>
@@ -179,7 +179,7 @@ class TourList extends Component {
                             <li><i className="fa fa-star" /> 4.3</li>
                           </ul>
                           <div className="tp-price-meta d-inline-block">
-                            <p>Price</p>
+                            <p>Prix</p>
                             <h2>620 <span>$</span></h2>
                           </div>
                         </div>

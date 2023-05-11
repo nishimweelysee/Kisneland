@@ -23,7 +23,7 @@ class AbonnementDetails extends Component {
     const mailOpt = {
       from: 'intercorep@gmail.com',
       to: 'intercorep@gmail.com',
-      subject: 'Game Booking',
+      subject: 'Manège Booking',
       html: email.message,
     };
     await transporter.sendMail(mailOpt);
@@ -67,7 +67,7 @@ class AbonnementDetails extends Component {
                 <div className="details">
                   <p className="location mb-0"><i className="fa fa-map-marker" />Tchad</p>
                   <h4 className="title">Ndjamena</h4>
-                  <p className="content">3 jours 2 person</p>
+                  <p className="content">7 Jours ... Personnes</p>
                   <div className="tp-review-meta">
                     <i className="ic-yellow fa fa-star" />
                     <i className="ic-yellow fa fa-star" />
@@ -78,9 +78,9 @@ class AbonnementDetails extends Component {
                   </div>
                   <div className="all-tags">
                     <a href="#">Adventures</a>
-                    <a href="#">Local special ties</a>
-                    <a href="#">Natural</a>
-                    <a href="#">Game</a>
+                    <a href="#">Bonheur</a>
+                    <a href="#">Nature</a>
+                    <a href="#">Manège</a>
                   </div>
                 </div>
               </div>
@@ -88,15 +88,15 @@ class AbonnementDetails extends Component {
                 <div className="book-list-warp">
                   <p className="book-list-content">Just booked! Get your spot before it's too late.</p>
                   <div className="tp-price-meta">
-                    <p>Price</p>
+                    <p>Prix</p>
                     <h2>{this.props.abonement.price}... <small>   CFA</small></h2>
                   </div>
                 </div>
                 <ul className="tp-list-meta border-tp-solid">
-                  <li className="ml-0"><i className="fa fa-calendar-o" /> 8 Oct</li>
-                  <li><i className="fa fa-clock-o" /> 4 Jours</li>
-                  <li><i className="fa fa-users" />2 Person</li>
-                  <li><i className="fa fa-snowflake-o" /> Relaxing</li>
+                  <li className="ml-0"><i className="fa fa-calendar-o" />Jan-Dec</li>
+                  <li><i className="fa fa-clock-o" /> 7 Jours</li>
+                  <li><i className="fa fa-users" />... Personnes</li>
+                  <li><i className="fa fa-snowflake-o" /> Relaxe</li>
                   <li><i className="fa fa-star" /> {this.props.abonement.review}</li>
                 </ul>
               </div>
@@ -108,7 +108,7 @@ class AbonnementDetails extends Component {
         <div className="row">
           <div className="col-lg-8">
             <div className="tour-details-wrap">
-              <h4 className="single-page-small-title">More Info</h4>
+              <h4 className="single-page-small-title">Plus d'Info</h4>
               <p>{this.props.abonement.content}</p>
               <div className="package-included-location">
                 <div className="row">
@@ -122,7 +122,7 @@ class AbonnementDetails extends Component {
                           <div className="single-blog-details">
                             <h4 className="title">{g.name}</h4>
                             <p className="content">{g.title}</p>
-                            <Link className="btn-read-more" to={{ pathname: "/piscine-details", search: 'id=' + g.id }}><span>Show More<i className="la la-arrow-right" /></span></Link>
+                            <Link className="btn-read-more" to={{ pathname: "/piscine-details", search: 'id=' + g.id }}><span>Voir Plus<i className="la la-arrow-right" /></span></Link>
                           </div>
                         </div>
                       </div>

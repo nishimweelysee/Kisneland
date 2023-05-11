@@ -66,7 +66,7 @@ const  GameDetails=(props)=> {
                 <div className="details">
                   <p className="location mb-0"><i className="fa fa-map-marker" />Tchad</p>
                   <h4 className="title">Ndjamena</h4>
-                  <p className="content">3 days 2 person</p>
+                  <p className="content">7 Jour ... person</p>
                   <div className="tp-review-meta">
                     <i className="ic-yellow fa fa-star" />
                     <i className="ic-yellow fa fa-star" />
@@ -77,25 +77,25 @@ const  GameDetails=(props)=> {
                   </div>
                   <div className="all-tags">
                     <a href="#">Adventures</a>
-                    <a href="#">Local special ties</a>
-                    <a href="#">Natural</a>
-                    <a href="#">Game</a>
+                    <a href="#"> bonheur</a>
+                    <a href="#">Nature</a>
+                    <a href="#">Jeux</a>
                   </div>
                 </div>
               </div>
               <div className="col-xl-9 col-lg-8">
                 <div className="book-list-warp">
-                  <p className="book-list-content">Just booked! Get your spot before it's too late.</p>
+                  <p className="book-list-content">Je viens de réserver ! Obtenez votre place avant qu'il ne soit trop tard.</p>
                   <div className="tp-price-meta">
-                    <p>Price</p>
+                    <p>Prix</p>
                     <h2>{props.game.price}... <small>   CFA</small></h2>
                   </div>
                 </div>
                 <ul className="tp-list-meta border-tp-solid">
-                  <li className="ml-0"><i className="fa fa-calendar-o" /> 8 Oct</li>
-                  <li><i className="fa fa-clock-o" /> 4 Days</li>
-                  <li><i className="fa fa-users" />2 Person</li>
-                  <li><i className="fa fa-snowflake-o" /> Relaxing</li>
+                  <li className="ml-0"><i className="fa fa-calendar-o" /> Jan-Dec</li>
+                  <li><i className="fa fa-clock-o" /> 7 Jours</li>
+                  <li><i className="fa fa-users" />... Person</li>
+                  <li><i className="fa fa-snowflake-o" /> Relaxe</li>
                   <li><i className="fa fa-star" /> {props.game.review}</li>
                 </ul>
               </div>
@@ -107,10 +107,10 @@ const  GameDetails=(props)=> {
         <div className="row">
           <div className="col-lg-8">
             <div className="tour-details-wrap">
-              <h4 className="single-page-small-title">More Info</h4>
+              <h4 className="single-page-small-title">Plus d'info</h4>
               <p>{props.game.content}</p>
               <div className="package-included-area">
-                <h4 className="single-page-small-title">Included</h4>
+                <h4 className="single-page-small-title">Inclus</h4>
                 <div className="row">
                   {
                     Object.values(props.game.included).map(inc => (
@@ -137,7 +137,7 @@ const  GameDetails=(props)=> {
                           <div className="single-blog-details">
                             <h4 className="title">{g.name}</h4>
                             <p className="content">{g.title}</p>
-                            <Link className="btn-read-more" to={{ pathname: "/game-details", search: 'id=' + g.id }}><span>Show More<i className="la la-arrow-right" /></span></Link>
+                            <Link className="btn-read-more" to={{ pathname: "/game-details", search: 'id=' + g.id }}><span>Voir Plus<i className="la la-arrow-right" /></span></Link>
                           </div>
                         </div>
                       </div>
@@ -151,7 +151,7 @@ const  GameDetails=(props)=> {
             <div className="sidebar-area sidebar-area-4">
               <div className="widget tour-list-widget">
                 <form ref={form} onSubmit={e=>sendEmail(e)} className="widget-tour-list-meta">
-                  <div className="single-widget-search-input-title"><i className="fa fa-user" /> Name</div>
+                  <div className="single-widget-search-input-title"><i className="fa fa-user" /> Nom</div>
                   <div className="single-widget-search-input">
                     <input name='names' type="text" onInput={e => setState({ name: e.target.value })} value={state.name} placeholder="Name" />
                   </div>
@@ -159,7 +159,7 @@ const  GameDetails=(props)=> {
                   <div className="single-widget-search-input">
                     <input name='email' type="email" onInput={e => setState({ email: e.target.value })} value={state.email} placeholder="Email" />
                   </div>
-                  <div className="single-widget-search-input-title"><i className="fa fa-phone" /> Phone</div>
+                  <div className="single-widget-search-input-title"><i className="fa fa-phone" /> Contact</div>
                   <div className="single-widget-search-input">
                     <input name='phone' type="tel" onInput={e => setState({ phone: e.target.value })} value={state.phone} placeholder="Phone" />
                   </div>

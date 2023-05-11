@@ -145,7 +145,7 @@ class UserProfile extends Component {
 			                        <div className="details">
 			                          <p className="location"><img src={publicUrl+"assets/img/icons/1.png"} alt="map" />Maldives</p>
 			                          <h4 className="title"><a href="#">Hurawalhi Island</a></h4>
-			                          <p className="content">7Days Tour on 2 person</p>
+			                          <p className="content">7Days Tour on ... Personnes</p>
 			                          <div className="tp-price-meta">
 			                            <h2>620 <small>$</small></h2>
 			                          </div>
@@ -160,7 +160,7 @@ class UserProfile extends Component {
 			                        <div className="details">
 			                          <p className="location"><img src={publicUrl+"assets/img/icons/1.png"} alt="map" />Indonesia</p>
 			                          <h4 className="title"><a href="#">Bali Province</a></h4>
-			                          <p className="content">4days 2 person</p>
+			                          <p className="content">4days ... Personnes</p>
 			                          <div className="tp-price-meta">
 			                            <h2>780 <small>$</small></h2>
 			                          </div>

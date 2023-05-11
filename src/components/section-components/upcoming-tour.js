@@ -35,7 +35,7 @@ class UpcomingTour extends Component {
 		            </div>
 		            <div className="tp-price-meta">
 		              <h2>620 <small>$</small></h2>
-		              <p>Price</p>
+		              <p>Prix</p>
 		            </div>
 		            <div className="details">
 		              <h3 className="title"><Link to="/tour-details">Rome</Link></h3>
@@ -56,7 +56,7 @@ class UpcomingTour extends Component {
 		            </div>
 		            <div className="tp-price-meta">
 		              <h2>675 <small>$</small></h2>
-		              <p>Price</p>
+		              <p>Prix</p>
 		            </div>
 		            <div className="details">
 		              <h3 className="title"><Link to="/tour-details">Great Barrier</Link></h3>
@@ -77,7 +77,7 @@ class UpcomingTour extends Component {
 		            </div>
 		            <div className="tp-price-meta">
 		              <h2>350 <small>$</small></h2>
-		              <p>Price</p>
+		              <p>Prix</p>
 		            </div>
 		            <div className="details">
 		              <h3 className="title"><Link to="/tour-details">Barrier Reef</Link></h3>
@@ -98,7 +98,7 @@ class UpcomingTour extends Component {
 		            </div>
 		            <div className="tp-price-meta">
 		              <h2>620 <small>$</small></h2>
-		              <p>Price</p>
+		              <p>Prix</p>
 		            </div>
 		            <div className="details">
 		              <h3 className="title"><Link to="/tour-details">Machu Picchu</Link></h3>

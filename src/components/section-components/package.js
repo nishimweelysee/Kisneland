@@ -50,7 +50,7 @@ class Package extends Component {
 			              </li>
 			              <li className="tp-price-meta">
 			                <p><i className="fa fa-tag" /></p>
-			                <p>Price</p>
+			                <p>Prix</p>
 			                <h2>620 <span>$</span></h2>
 			              </li>
 			            </ul> 
@@ -88,7 +88,7 @@ class Package extends Component {
 			              </li>
 			              <li className="tp-price-meta">
 			                <p><i className="fa fa-tag" /></p>
-			                <p>Price</p>
+			                <p>Prix</p>
 			                <h2>720 <span>$</span></h2>
 			              </li>
 			            </ul> 
@@ -126,7 +126,7 @@ class Package extends Component {
 			              </li>
 			              <li className="tp-price-meta">
 			                <p><i className="fa fa-tag" /></p>
-			                <p>Price</p>
+			                <p>Prix</p>
 			                <h2>310 <span>$</span></h2>
 			              </li>
 			            </ul> 
@@ -164,7 +164,7 @@ class Package extends Component {
 			              </li>
 			              <li className="tp-price-meta">
 			                <p><i className="fa fa-tag" /></p>
-			                <p>Price</p>
+			                <p>Prix</p>
 			                <h2>540 <span>$</span></h2>
 			              </li>
 			            </ul> 

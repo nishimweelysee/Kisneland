@@ -23,8 +23,8 @@ class Footer_v2 extends Component {
 				    <div className="row justify-content-center">
 				      <div className="col-xl-5 col-lg-7">
 				        <div className="section-title mb-4 text-center">
-				          <h2 className="title">Newsletter</h2>
-				          <p>Sign up to receive the best offers</p>
+				          <h2 className="title">S'abonner</h2>
+				          <p>Inscrivez-vous pour recevoir les meilleures offres</p>
 				        </div>
 				        <div className="widget input-group newslatter-wrap">
 				          <div className="input-group-prepend">
@@ -66,7 +66,7 @@ class Footer_v2 extends Component {
 				        <div className="footer-widget widget text-center">
 				          <ul className="widget_nav_menu text-center viaje-go-top">
 				            <li><Link to="/">Home</Link></li>
-				            <li><Link to="/about">About Us</Link></li>
+				            <li><Link to="/about">À propos de nous</Link></li>
 				            <li><Link to="/games">Destination</Link></li>
 				            <li><Link to="/tour-details">Tours</Link></li>
 				            <li><Link to="/mettings">Blog</Link></li>

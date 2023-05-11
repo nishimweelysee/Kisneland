@@ -54,7 +54,7 @@ class Contact extends Component {
                             </label>
                           </div>
                           <div className="col-12">
-                            <input type="submit" className="btn btn-yellow" value="Send Message" />
+                            <input type="submit" className="btn btn-yellow" value="Envoyer le message" />
                           </div>
                         </div>
                       </form>

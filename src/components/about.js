@@ -10,7 +10,7 @@ import Footer from './global-components/footer';
 const AboutPage = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="About Us"  />
+        <PageHeader headertitle="À propos de nous"  />
         <About />
         <History />
         <Team />

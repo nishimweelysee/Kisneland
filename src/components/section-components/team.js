@@ -15,8 +15,8 @@ class Team extends Component {
 			      <div className="row justify-content-center">
 			        <div className="col-lg-6">
 			          <div className="section-title text-center">
-			            <h2 className="title">Our Team</h2>
-			            <p>Donec dapibus mauris id odio ornare tempus. Duis sit amet accumsan justo, quis tempor ligula. Quisque quis pharetra felis. Ut quis consequat orci, at consequat felis.</p>
+			            <h2 className="title">Notre équipe</h2>
+			            <p>Kisneland a la meilleure équipe expérimentée pour vous aider tous les jours de la semaine.</p>
 			          </div>
 			        </div>
 			      </div>
@@ -27,7 +27,7 @@ class Team extends Component {
 			              <img src={publicUrl+"assets/photo/1.png"} height="300px" alt="team" />
 			            </div>
 			            <h3 className="name"><a href="#">Amber Reid</a></h3>
-			            <span>Creative Director</span>
+			            <span>Garde d'enfants</span>
 			            <ul className="team-social">
 			              <li><a href="#"><i className="fa fa-facebook" /></a></li>
 			              <li><a href="#"><i className="fa fa-twitter" /></a></li>
@@ -42,7 +42,7 @@ class Team extends Component {
 			              <img src={publicUrl+"assets/photo/2.png"} height="300px" alt="team" />
 			            </div>
 			            <h3 className="name"><a href="#">Bruce Pearson</a></h3>
-			            <span>Creative Director</span>
+			            <span>Garde d'enfants</span>
 			            <ul className="team-social">
 			              <li><a href="#"><i className="fa fa-facebook" /></a></li>
 			              <li><a href="#"><i className="fa fa-twitter" /></a></li>
@@ -57,7 +57,7 @@ class Team extends Component {
 			              <img src={publicUrl+"assets/photo/3.png"} height="300px" alt="team" />
 			            </div>
 			            <h3 className="name"><a href="#">Amber Griffin</a></h3>
-			            <span>Creative Director</span>
+			            <span>Garde d'enfants</span>
 			            <ul className="team-social">
 			              <li><a href="#"><i className="fa fa-facebook" /></a></li>
 			              <li><a href="#"><i className="fa fa-twitter" /></a></li>
@@ -72,7 +72,7 @@ class Team extends Component {
 			              <img src={publicUrl+"assets/photo/4.png"} height="300px" alt="team" />
 			            </div>
 			            <h3 className="name"><a href="#">Abedin Abed</a></h3>
-			            <span>Creative Director</span>
+			            <span>Garde d'enfants</span>
 			            <ul className="team-social">
 			              <li><a href="#"><i className="fa fa-facebook" /></a></li>
 			              <li><a href="#"><i className="fa fa-twitter" /></a></li>
@@ -92,8 +92,8 @@ class Team extends Component {
 			        <div className="row">
 			          <div className="col-xl-3 col-lg-6 col-md-5 offset-xl-2">
 			            <div className="section-title mb-md-0">
-			              <h2 className="title">Newsletter</h2>
-			              <p>Sign up to receive the best offers</p>
+			              <h2 className="title">S'abonner</h2>
+			              <p>Inscrivez-vous pour recevoir les meilleures offres</p>
 			            </div>
 			          </div>
 			          <div className="col-xl-4 col-lg-6 col-md-7 align-self-center offset-xl-1">

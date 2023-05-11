@@ -174,7 +174,7 @@ class DestinatioDetails extends Component {
                               <li><i className="fa fa-star" /> 4.3</li>
                             </ul>
                             <div className="tp-price-meta tp-price-meta-cl">
-                              <p>Price</p>
+                              <p>Prix</p>
                               <h2>620 <small>$</small></h2>
                               <del>620<span>$</span></del>
                             </div>
@@ -193,7 +193,7 @@ class DestinatioDetails extends Component {
                               <li><i className="fa fa-star" /> 4.3</li>
                             </ul>
                             <div className="tp-price-meta tp-price-meta-cl">
-                              <p>Price</p>
+                              <p>Prix</p>
                               <h2>620 <small>$</small></h2>
                               <del>620<span>$</span></del>
                             </div>
@@ -212,7 +212,7 @@ class DestinatioDetails extends Component {
                               <li><i className="fa fa-star" /> 4.3</li>
                             </ul>
                             <div className="tp-price-meta tp-price-meta-cl">
-                              <p>Price</p>
+                              <p>Prix</p>
                               <h2>620 <small>$</small></h2>
                               <del>620<span>$</span></del>
                             </div>
